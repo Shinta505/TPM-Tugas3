@@ -1,16 +1,30 @@
-# mobile_tugas3
+# Teknologi dan Pemrograman Mobile (IF-B) - Tugas 3
 
-A new Flutter project.
+Proyek ini merupakan tugas ketiga dalam mata kuliah Teknologi dan Pemrograman Mobile. Aplikasi ini dikembangkan menggunakan Flutter dan mencakup berbagai fitur seperti login, tracking lokasi berbasis layanan (LBS), konversi waktu, rekomendasi situs, serta fitur lainnya.
 
-## Getting Started
+![Screenshoot-soal](https://github.com/user-attachments/assets/b7c8e183-1dc8-4060-879b-707039ad0594)
 
-This project is a starting point for a Flutter application.
+## 📌 Anggota Kelompok
+- **Shinta Nursobah Chairani** / 123220074
+- **Gita Poetri Dewi Siregar** / 123220087
+- **Veyza Pradita Ardhia Putri** / 123220074
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Fitur Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ✅ Gita:
+- **Login**: Halaman autentikasi pengguna.
+- **Halaman Utama**: Tampilan awal setelah login berhasil.
+- **Daftar Anggota**: Menampilkan daftar anggota kelompok.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✅ Shinta:
+- **Tracking LBS**: Fitur pelacakan lokasi berbasis layanan (Location-Based Services).
+- **Konversi Waktu**: Mengonversi waktu antara tahun, jam, menit, dan detik. 
+- **Rekomendasi Situs**: Menampilkan rekomendasi situs jual jam tangan. 
+
+### ✅ Veyza:
+- **Aplikasi Stopwatch**: Timer digital untuk mengukur durasi waktu.
+- **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.
+- **Menu Bantuan**: Panduan penggunaan aplikasi.
+
+
+
