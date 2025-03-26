@@ -12,17 +12,17 @@ Proyek ini merupakan tugas ketiga dalam mata kuliah Teknologi dan Pemrograman Mo
 ## 🔥 Fitur Aplikasi  
 
 ### ✅ Gita:  
-- [ ] **Login**: Halaman autentikasi pengguna.  
-- [ ] **Halaman Utama**: Tampilan awal setelah login berhasil.  
-- [ ] **Daftar Anggota**: Menampilkan daftar anggota kelompok.  
+- [x] **Login**: Halaman autentikasi pengguna.  
+- [x] **Halaman Utama**: Tampilan awal setelah login berhasil.  
+- [x] **Daftar Anggota**: Menampilkan daftar anggota kelompok.  
 
 ### ✅ Shinta:  
-- [ ] **Tracking LBS**: Fitur pelacakan lokasi berbasis layanan (Location-Based Services).  
-- [ ] **Konversi Waktu**: Mengonversi waktu antara tahun, jam, menit, dan detik.  
-- [ ] **Rekomendasi Situs**: Menampilkan rekomendasi situs jual jam tangan.  
+- [x] **Tracking LBS**: Fitur pelacakan lokasi berbasis layanan (Location-Based Services).  
+- [x] **Konversi Waktu**: Mengonversi waktu antara tahun, jam, menit, dan detik.  
+- [x] **Rekomendasi Situs**: Menampilkan rekomendasi situs jual jam tangan.  
 
 ### ✅ Veyza:  
-- [ ] **Aplikasi Stopwatch**: Timer digital untuk mengukur durasi waktu.  
-- [ ] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
-- [ ] **Menu Bantuan**: Panduan penggunaan aplikasi.  
+- [x] **Aplikasi Stopwatch**: Timer digital untuk mengukur durasi waktu.  
+- [x] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
+- [x] **Menu Bantuan**: Panduan penggunaan aplikasi.  
 
