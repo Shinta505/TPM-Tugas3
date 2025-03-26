@@ -7,22 +7,16 @@ Proyek ini merupakan tugas ketiga dalam mata kuliah Teknologi dan Pemrograman Mo
 ## 📌 Anggota Kelompok
 - **Shinta Nursobah Chairani** / 123220074
 - **Gita Poetri Dewi Siregar** / 123220087
-- **Veyza Pradita Ardhia Putri** / 123220074
+- **Veyza Pradita Ardhia Putri** / 123220102
 
 ## 🔥 Fitur Aplikasi  
 
-### ✅ Gita:  
 - [x] **Login**: Halaman autentikasi pengguna.  
 - [x] **Halaman Utama**: Tampilan awal setelah login berhasil.  
-- [x] **Daftar Anggota**: Menampilkan daftar anggota kelompok.  
-
-### ✅ Shinta:  
+- [x] **Daftar Anggota**: Menampilkan daftar anggota kelompok.   
 - [x] **Tracking LBS**: Fitur pelacakan lokasi berbasis layanan (Location-Based Services).  
 - [x] **Konversi Waktu**: Mengonversi waktu antara tahun, jam, menit, dan detik.  
 - [x] **Rekomendasi Situs**: Menampilkan rekomendasi situs jual jam tangan.  
-
-### ✅ Veyza:  
 - [x] **Aplikasi Stopwatch**: Timer digital untuk mengukur durasi waktu.  
-- [x] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
-- [x] **Menu Bantuan**: Panduan penggunaan aplikasi.  
-
+- [ ] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
+- [ ] **Menu Bantuan**: Panduan penggunaan aplikasi.  
