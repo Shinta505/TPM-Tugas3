@@ -2,7 +2,8 @@
 
 Proyek ini merupakan tugas ketiga dalam mata kuliah Teknologi dan Pemrograman Mobile. Aplikasi ini dikembangkan menggunakan Flutter dan mencakup berbagai fitur seperti login, tracking lokasi berbasis layanan (LBS), konversi waktu, rekomendasi situs, serta fitur lainnya.
 
-![Screenshoot-soal](https://github.com/user-attachments/assets/b7c8e183-1dc8-4060-879b-707039ad0594)
+![soal_mobile_t3](https://github.com/user-attachments/assets/485048cd-3cf1-4ba0-b48e-389af9d984b6)
+
 
 ## 📌 Anggota Kelompok
 - **Shinta Nursobah Chairani** / 123220074
@@ -18,5 +19,5 @@ Proyek ini merupakan tugas ketiga dalam mata kuliah Teknologi dan Pemrograman Mo
 - [x] **Konversi Waktu**: Mengonversi waktu antara tahun, jam, menit, dan detik.  
 - [x] **Rekomendasi Situs**: Menampilkan rekomendasi situs jual jam tangan.  
 - [x] **Aplikasi Stopwatch**: Timer digital untuk mengukur durasi waktu.  
-- [ ] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
-- [ ] **Menu Bantuan**: Panduan penggunaan aplikasi.  
+- [x] **Konversi Bilangan**: Mengonversi angka antar berbagai sistem bilangan.  
+- [x] **Menu Bantuan**: Panduan penggunaan aplikasi.  
